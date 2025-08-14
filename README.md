@@ -45,6 +45,15 @@ Computer vision–powered tool analyzing skiing posture, technique and movement 
 
 ---
 
+## 📊 Stats That Don’t Lie  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizanAli-io&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAli-io&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/faizan-ali-abdulali/)
 - 🌐 [Website](https://the-byte-office.vercel.app/)
