@@ -1,5 +1,5 @@
 <!-- Quote -->
-> *"Avoid the crowd. Do your own thinking independently. Be the chess player, not the chess piece."* – Ralph Charell  
+> *"Avoid the crowd. Do your own thinking. Be the player, not the piece."* – Ralph Charell  
 
 # Faizan Ali Abdulali
 
@@ -10,15 +10,8 @@ I bridge **deep technical expertise** with **client, sales, and leadership skill
 
 ## 🧩 Who Am I?  
 
-I build things that think, move, and adapt — from **generative AI platforms** to **real-time, data-intensive apps**.  
-I thrive at the intersection of **tech, strategy, and execution**, turning ambitious ideas into polished products.  
-
-When I’m not deep in a codebase, you’ll probably find me:  
-- Outmaneuvering opponents on the chessboard ♟  
-- Trying to dunk (and sometimes succeeding) 🏀  
-- Chasing a new PR at the gym 💪  
-
-For me, every challenge — whether **technical** or **business** — is just the next move in a much bigger game.
+I build things that think, move, and adapt — from **generative AI platforms** to **real-time, data-intensive apps**.
+I thrive at the intersection of **tech, strategy, and execution**, turning ambitious ideas into polished products.
 
 ---
 
@@ -58,9 +51,3 @@ Computer vision–powered tool analyzing skiing posture, technique and movement 
 - 💼 [LinkedIn](https://www.linkedin.com/in/faizan-ali-abdulali/)
 - 🌐 [Website](https://the-byte-office.vercel.app/)
 - 📧 [Email](mailto:thebyteoffice@gmail.com)
-
----
-
-<p align="center">
-  <sub>Built with ☕, late nights, and the occasional checkmate.</sub>
-</p>
